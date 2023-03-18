@@ -7,6 +7,7 @@ public class HelloGit {
 		
 		System.out.println("Testando commit");
 		System.out.println("Testando outra vez");
+		System.out.println("Test de token agora");
 
 	}
 
